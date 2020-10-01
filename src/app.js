@@ -31,7 +31,8 @@ app.get('', (req, res) => {
 app.get('/about', (req, res) => {
     res.render('about', {
         title: 'About Me',
-        name: 'Annivas Exarchos'
+        name: 'Annivas Exarchos',
+        email: 'annivas.exa@gmail.com'
     })
 })
 
@@ -85,7 +86,6 @@ app.get('/help/*', (req, res) => {
     res.render ('404', {
         title: '404',
         name: 'Annivas Exarchos',
-        email: 'annivas.exa@gmail.com',
         errorMessage: 'Help article not found'
     })
 })
