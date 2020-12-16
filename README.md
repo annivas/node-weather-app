@@ -7,7 +7,7 @@ This web application provides a simple weather description for a given location.
 
 <br/>
 
-It uses the mapbox [geocoding API](https://docs.mapbox.com/api/search/) to get the coordinates for the searched location.
+It uses the mapbox [geocoding API](https://docs.mapbox.com/api/search/geocoding/) to get the coordinates for the searched location.
 
 These coordinates are fed into the [weatherstack API](https://weatherstack.com/) to fetch weather information.
 
