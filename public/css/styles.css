@@ -36,6 +36,10 @@ h1 {
     margin-bottom: 16px;
 }
 
+header h1 {
+    text-shadow: 2px 2px 5px;
+}
+
 header a {
     color: #615e5e;
     margin-right: 16px;
