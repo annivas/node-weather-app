@@ -20,7 +20,7 @@ body {
 }
 
 footer {
-    color: #888888;
+    color: #585757;
     border-top: 1px solid #eeeeee;
     margin-top: 16px;
     padding: 16px 0;
@@ -29,7 +29,8 @@ footer {
 header {
     margin-top: 16px;
     margin-bottom: 48px;
-    color: #787878;
+    color: #585757;
+    font-size: 48px;
 }
 
 h1 {
