@@ -20,8 +20,8 @@ body {
 }
 
 footer {
-    color: #585757;
-    border-top: 1px solid #eeeeee;
+    color: #615e5e;
+    border-top: 1px solid #615e5e;
     margin-top: 16px;
     padding: 16px 0;
 }
@@ -29,20 +29,20 @@ footer {
 header {
     margin-top: 16px;
     margin-bottom: 48px;
-    color: #585757;
-    font-size: 48px;
 }
 
 h1 {
     font-size: 64px;
     margin-bottom: 16px;
-    text-shadow: 2px 2px 5px;
 }
 
 header a {
-    color: #888888;
+    color: #615e5e;
     margin-right: 16px;
     text-decoration: none;
+    font-size: 48px;
+    border-bottom: 2px solid #615e5e;
+    margin-bottom: 16px;
 }
 
 .portrait  {
